@@ -1,0 +1,7 @@
+id=disable_qcom_rx_wakelock
+name=Disable qcom_rx_wakelock
+version=v1.0
+versionCode=1
+author=dov-vai
+description=Adds rx_wakelock_timeout=0 flag to all found WCNSS_qcom_cfg.ini. Hopefully disabling the wakelock.
+minMagisk=17000
